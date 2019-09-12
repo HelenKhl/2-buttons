@@ -11,15 +11,9 @@ button {
 }   
 button:first-child {
     background-color: green;
-    background:linear-gradient(-35deg, transparent 40px, green 0) bottom right;
-   
-
-    
 }
-
 
 button:last-child{
      background-color: red;
-    
 }
 
